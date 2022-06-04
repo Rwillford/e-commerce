@@ -13,6 +13,7 @@
   * [Licenses](#Licenses)
   * [Contribution](#Contribution)
   * [Tests](#Tests)
+  * [Comments](#Comment)
   * [Questions](#Questions)
   * [Github Username](#Github)
   * [Email](#Email)
@@ -51,6 +52,9 @@
 
   ## Tests
   No testing for this
+  
+  ## Comments
+  <img width="1244" alt="image" src="https://user-images.githubusercontent.com/99914942/172024904-8a68b1a6-9de8-43b7-bf71-d9e309c53b78.png">
 
   ## Questions
   
